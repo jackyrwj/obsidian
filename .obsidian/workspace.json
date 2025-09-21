@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "032b04ea9505459d",
+        "id": "002828560d11aa62",
         "type": "tabs",
         "children": [
           {
-            "id": "c753942acb86ba74",
+            "id": "d4796daf709eb476",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/raowenjie.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "raowenjie"
             }
           }
         ]
@@ -176,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdd7a7cb2e07362a",
+  "active": "d4796daf709eb476",
   "lastOpenFiles": [
+    "archetypes/default.md",
+    "content/posts/raowenjie.md",
     "content/test.md",
     "content/posts/okko.md",
     "content/posts/my-first-post_副本2.md",
@@ -212,7 +218,6 @@
     "content/posts/123212.md",
     "content/posts/mmkm.md",
     "content/posts/vbvb.md",
-    "archetypes/default.md",
     "content/about.md",
     "content/posts/xcvxcv.md",
     "content/posts/qqq.md",
@@ -222,7 +227,6 @@
     "content/posts/ooo.md",
     "content/posts/my-first-post_副本2~.md",
     "content/contact.md",
-    "content/posts/好.md",
-    "fdf.md"
+    "content/posts/好.md"
   ]
 }
