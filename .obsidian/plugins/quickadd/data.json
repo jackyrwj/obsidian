@@ -1,11 +1,11 @@
 {
   "choices": [
     {
-      "id": "5d718d74-42e9-46d0-bf6e-ff7f739a451d",
-      "name": "新建博文",
+      "id": "d7d051ec-5033-493b-a3dc-48eb6a81ec66",
+      "name": "newblog",
       "type": "Template",
       "command": false,
-      "templatePath": "模板/未命名.md",
+      "templatePath": "archetypes/default.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

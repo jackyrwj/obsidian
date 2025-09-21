@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb97f22248249fe",
+        "id": "032b04ea9505459d",
         "type": "tabs",
         "children": [
           {
-            "id": "b7f3debcb5f9f5c2",
+            "id": "c753942acb86ba74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "新标签页"
             }
           }
         ]
@@ -170,7 +166,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -181,30 +176,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7f3debcb5f9f5c2",
+  "active": "cdd7a7cb2e07362a",
   "lastOpenFiles": [
+    "content/test.md",
+    "content/posts/okko.md",
+    "content/posts/my-first-post_副本2.md",
+    "content/posts/my-first-post_副本 2.md",
+    "content/posts/jiji.md",
+    "模板/未命名.md",
+    "模板",
     "unnamed.png",
-    "content/posts/fsf.md",
-    "content/posts/mock-article-1.md",
+    "public/tags/草稿/page/1/index.html",
+    "public/tags/草稿/page/1",
+    "public/tags/草稿/page",
+    "public/tags/草稿/index.xml",
+    "public/tags/草稿/index.html",
+    "public/tags/草稿",
+    "public/tags/未发布/page/1/index.html",
+    "public/tags/未发布/page/1",
+    "public/tags/未发布/page",
+    "public/flags/4x3/zw.svg",
+    "public/flags/4x3/zm.svg",
+    "public/flags/4x3/za.svg",
+    "public/flags/4x3/yt.svg",
+    "public/flags/4x3/ye.svg",
+    "public/flags/4x3/xx.svg",
+    "public/flags/4x3/xk.svg",
+    "public/flags/4x3/ws.svg",
+    "public/flags/4x3/wf.svg",
     "content/posts/test.md",
     "content/posts/my-first-post.md",
+    "content/posts/mock-article-1.md",
+    "content/posts/fsf.md",
+    "content/posts/oo.md",
+    "content/posts/123212.md",
+    "content/posts/mmkm.md",
+    "content/posts/vbvb.md",
     "archetypes/default.md",
-    "模板/未命名.md",
     "content/about.md",
-    "模板/未命名 1.md",
-    "content/posts/fff.md",
-    "_Templates/未命名.md",
-    "模板",
-    "content/posts/ffff.md",
-    "content/posts/df.md",
-    "content/posts/fdf.md",
+    "content/posts/xcvxcv.md",
+    "content/posts/qqq.md",
+    "content/posts/lkl.md",
+    "content/posts/wewerw.md",
+    "content/posts/ppp.md",
+    "content/posts/ooo.md",
+    "content/posts/my-first-post_副本2~.md",
     "content/contact.md",
-    "_Templates/hugo博客模板.md",
-    "content/posts/fd.md",
-    "content/posts/asdf.md",
-    "未命名.md",
-    "content/posts/未命名.md",
-    "template/未命名.md",
-    "_Templates"
+    "content/posts/好.md",
+    "fdf.md"
   ]
 }

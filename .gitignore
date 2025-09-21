@@ -1,0 +1,16 @@
+# Hugo 自动生成的文件
+public/
+resources/_gen/
+.DS_Store # Mac OS 生成的隐藏文件
+
+# 自动生成的元数据文件
+.hugo_build.lock
+
+# IDE 或编辑器生成的临时文件
+.idea/
+.vscode/
+Thumbs.db # Windows 系统生成的文件
+
+# 其他可能需要忽略的文件，根据你的项目情况添加
+# /static/assets/ # 示例：如果你的静态资源是通过构建工具生成的，可以忽略
+# .env # 环境变量文件，通常不提交
