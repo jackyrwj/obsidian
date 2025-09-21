@@ -1,0 +1,32 @@
+/* 多图排版 - 使用 Flexbox */
+.post-content p:has(> img) {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 6px 0;
+}
+
+.post-content p:has(> img:nth-child(2)) img,
+.post-content p:has(> img:nth-child(3)) img,
+.post-content p:has(> img:nth-child(4)) img,
+.post-content p:has(> img:nth-child(5)) img {
+    /* 为 Flexbox 容器中的每张图片设置样式 */
+    max-width: 100%; /* 防止图片超出容器 */
+    height: auto;
+    object-fit: contain;
+    margin: 4px;
+}
+
+.post-content p:has(> img:nth-child(2)) img {
+    /* 针对两张图片的情况 */
+    width: 48%;
+}
+.post-content p:has(> img:nth-child(3)) img {
+    /* 针对三张图片的情况 */
+    width: 31%;
+}
+.post-content p:has(> img:nth-child(4)) img {
+    /* 针对四张图片的情况 */
+    width: 23%;
+}

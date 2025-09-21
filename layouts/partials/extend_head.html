@@ -1,0 +1,4 @@
+<style>
+{{ $style := resources.Get "css/extended.scss" | toCSS }}
+{{ $style.Content | safeCSS }}
+</style>

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "002828560d11aa62",
+        "id": "836651ba5615c676",
         "type": "tabs",
         "children": [
           {
-            "id": "d4796daf709eb476",
+            "id": "dff9ff33efa05de5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "content/posts/jiji.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "jiji"
             }
           }
         ]
@@ -180,25 +180,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4796daf709eb476",
+  "active": "dff9ff33efa05de5",
   "lastOpenFiles": [
+    "content/posts/my-first-post_副本 2.md",
+    "content/posts/my-first-post_副本2.md",
+    "content/posts/okko.md",
     "content/posts/raowenjie.md",
-    "layouts/partials/footer~.html",
-    "layouts/partials/footer.html",
-    "layouts/partials",
-    "layouts/未命名文件夹",
-    "public/js/view-image.min.js",
-    "static/js/view-image.min.js",
-    "public/js",
-    "static/js",
-    "public/未命名文件夹",
-    "static/未命名文件夹",
+    "content/posts/jiji.md",
+    "resources/_gen/assets/css/extended.scss_7bbaf99eabb468e10b793066c2709a48.json",
+    "resources/_gen/assets/css/extended.scss_7bbaf99eabb468e10b793066c2709a48.content",
+    "resources/_gen/assets/css",
+    "resources/_gen/assets",
+    "resources/_gen",
+    "resources",
+    "layouts/partials/extend_head.html",
+    "layouts/partials/head~.html",
+    "layouts/partials/head.html",
+    "assets/css/head.html",
+    "test.md",
+    "assets/css/extended.scss.md",
     "archetypes/default.md",
     "content/test.md",
-    "content/posts/okko.md",
-    "content/posts/my-first-post_副本2.md",
-    "content/posts/my-first-post_副本 2.md",
-    "content/posts/jiji.md",
     "模板/未命名.md",
     "unnamed.png",
     "public/flags/4x3/zw.svg",
@@ -224,8 +226,6 @@
     "content/posts/lkl.md",
     "content/posts/wewerw.md",
     "content/posts/ppp.md",
-    "content/posts/ooo.md",
-    "content/posts/my-first-post_副本2~.md",
-    "content/contact.md"
+    "content/posts/ooo.md"
   ]
 }
