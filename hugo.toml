@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-CN'
+title = '我的博客'
+
+theme = 'PaperMod'
+
+[params]
+  # 启用深色模式切换按钮
+  defaultTheme = "light"
+  disableThemeToggle = false
+
+  # 启用侧边栏（文章目录）
+  ShowToc = true
+  TocOpen = true
+
+[menu]
+  # 配置顶部导航栏
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30

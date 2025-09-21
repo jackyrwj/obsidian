@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 我的博客</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on 我的博客</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 21 Sep 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 21 Sep 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h3&gt;
+&lt;p&gt;这是我用 Hugo 搭建的第一个博客。&lt;/p&gt;
+&lt;p&gt;我计划在这里分享一些关于技术、生活和阅读的心得。&lt;/p&gt;
+&lt;h4 id=&#34;这是一个子标题&#34;&gt;这是一个子标题&lt;/h4&gt;
+&lt;p&gt;你可以在这里添加更多内容，比如图片、代码和列表。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这是一个列表项&lt;/li&gt;
+&lt;li&gt;另一个列表项&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
