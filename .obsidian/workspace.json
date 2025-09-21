@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7644fb950331df2b",
+        "id": "1bb97f22248249fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d032bb04bbbf1ac2",
+            "id": "b7f3debcb5f9f5c2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "hugo.toml",
-                "bFile": "hugo.toml",
-                "aRef": ""
+                "file": "content/posts/fsf.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: hugo.toml"
+              "icon": "lucide-file",
+              "title": "fsf"
             }
           }
         ]
@@ -181,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d032bb04bbbf1ac2",
+  "active": "b7f3debcb5f9f5c2",
   "lastOpenFiles": [
+    "content/posts/mock-article-1.md",
+    "content/posts/my-first-post.md",
+    "content/posts/fsf.md",
     "archetypes/default.md",
     "模板/未命名.md",
-    "content/posts/fsf.md",
-    "content/posts/my-first-post.md",
-    "content/posts/mock-article-1.md",
     "content/about.md",
     "模板/未命名 1.md",
     "content/posts/fff.md",
